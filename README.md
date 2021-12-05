@@ -9,17 +9,17 @@ _32 group website project_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/32-grupe-mergaite/
+Site published at:  https://giedresavickiene.github.io/sing-up/
 
 Design: [Sing up](https://cdn.discordapp.com/attachments/850245533838868480/850246368214908970/day1dr.png)
 
 ## Project features
 
--   Github pages (multi pages)
+- Github pages (multi pages)
 - HTML for
-- bacground images
+- Bacground images
 - CSS position absolute
--   CSS blure effect
+- CSS blure effect
 
 
 
