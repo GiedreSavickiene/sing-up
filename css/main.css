@@ -23,6 +23,26 @@ body {
     margin-top: 20px;
     background-color: #494eac;
 }
+
+.main-title{
+    display: inline-block;
+    width: 100%;
+    color: red;
+    font-size: 32px;
+    font-weight: normal;
+    
+}
+.bottom-links{
+    display: inline-block;
+    width: 100%;
+    background-color: yellow;
+}
+.bottom-links > .link{
+    color: white;
+    font-size: 14px;
+}
+
+.bottom-links > .symbol{}
 .right-column {
     width: 60%;
     float: left;
@@ -30,17 +50,4 @@ body {
     background-color: white;
 
 }
-.btn{
-    background-color: blue;
-    padding: 15px;
-    padding-left: 40px;
-    padding-right: 40px;
-    border-radius: 4px;
-    line-height: 20px;
-    font-size: 24px;
-    text-decoration: none;
-    color: white;
-    border: none;
-    cursor: pointer;
 
-}   
