@@ -22,12 +22,19 @@ body {
     padding: 40px;
     margin-top: 20px;
     background-color: #494eac;
+    background-image: url(../hill.png);
+    color: white;
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: cover;
+
+    
 }
 
 .main-title{
     display: inline-block;
     width: 100%;
-    color: red;
+    color: white;
     font-size: 32px;
     font-weight: normal;
     
@@ -42,7 +49,9 @@ body {
     font-size: 14px;
 }
 
-.bottom-links > .symbol{}
+.bottom-links > .symbol{
+    color: white;
+}
 
 
 .right-column {
