@@ -63,6 +63,9 @@ body {
 }
 
 .close{
+    float: right;
+    margin-top: -60px;
+    margin-right: -60px;
     width: 60px;
     height: 60px;
     font-size: 35px;
@@ -71,7 +74,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-
+    background-color: red;
 }
 .right-column span{
     display: inline-block;
@@ -90,7 +93,6 @@ body {
     text-decoration: none;
 }
 .right-column a:hover{
-    
     text-decoration: underline;
 
 }
