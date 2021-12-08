@@ -63,7 +63,15 @@ body {
 }
 
 .close{
-    display: inline-block;
+    
+    float: right;
+    margin-top: -60px;
+    margin-right: -60px;
+    width: 60px;
+    height: 60px;
+    font-size: 35px;
+    line-height: 54px;
+    text-align: center;
     background-color: red;
 }
 .right-column span{
@@ -83,7 +91,6 @@ body {
     text-decoration: none;
 }
 .right-column a:hover{
-    
     text-decoration: underline;
 
 }
