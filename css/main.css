@@ -10,7 +10,19 @@ body {
     background-color: #00afcc;
     position: relative;
     height: 100vh;
+    background-image: url(../img/hill.png);
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: cover;
+   
 
+}
+.bacground-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+     filter: blur(1.5rem);
 }
 .container{
     display: inline-block;
@@ -28,13 +40,13 @@ body {
     padding: 40px;
     background-color: #494eac;
     background-image: url(../img/hill.png);
-    color: white;
     background-repeat: no-repeat ;
     background-position: center;
     background-size: cover;
     position: absolute;
     top: 30px;
     bottom: 30px;
+    color: white;
 }
 
 .main-title{
