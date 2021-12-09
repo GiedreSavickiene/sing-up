@@ -4,8 +4,9 @@
     padding: 15px;
     padding-left: 50px;
     padding-right: 50px;
-    background-color: #015ad9;
-    margin-bottom: 20px;
+    background-color: rgb(35, 74, 213);
+    background: linear-gradient(90deg, 6, 97, 221, 1);
+    
     color: white;
     font-size: 20px;
     line-height: 20px;
