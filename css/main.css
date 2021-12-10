@@ -103,7 +103,6 @@ body {
     padding-right: 10px;
     margin-left: 10px;
     line-height: 20px;
-    margin-left: 15px;
     font-size: 18px;
 
 }
@@ -111,6 +110,9 @@ body {
 .right-column a{
     display: inline-block;
     padding: 15px;
+    line-height: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     line-height: 20px;
     font-size: 18px;
     text-decoration: none;
